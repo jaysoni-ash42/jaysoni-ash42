@@ -10,11 +10,11 @@ I am Software developer
 <h3>🛠 Tech. Stacks</h3>
 
 
-- 💻 Web Application Development: ReactJS,NextJs, NodeJS, ExpressJS,Javascript ,GraphQL ,Typescript, Redux, HTML5, CSS3,Bootstrap, TailWindcss.
+- 💻 Web Application Development: ReactJS,NextJs, NodeJS, ExpressJS,Javascript ,GraphQL ,Typescript, Redux, HTML5, CSS3,Bootstrap,vuejs,Nuxtjs.
 - 💻 Mobile Application Development: Native App development with java, Learning Flutter and ReactNative 
 - 💻 Test Driven Development: Jest
-- 💻 Database Developement : SQL Server, MySQL, SQL Lite, MongoDB, Firebase.
-- 💻 Devops: Git, GitHub, Docker, NPM,YARN.
+- 💻 Database Developement : PostGresql, MySQL, SQL Lite, MongoDB, Firebase.
+- 💻 Devops: Git, GitHub, Docker,Heroku.
 
  <h3>📞 Talk to me</h3>
 
