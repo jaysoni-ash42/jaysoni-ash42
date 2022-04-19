@@ -1,10 +1,10 @@
 
    
-<h2> Hey there! Jay Soni 👋</h2>
+<h2> Hey there! I am Jay Soni 👋</h2>
 
 <h3>About Me</h3>
 
-I am Software developer
+I am Web | App Developer
 
 
 <h3>🛠 Tech. Stacks</h3>
@@ -33,4 +33,4 @@ Get in touch with me on: <a href='mailto:jaysoni2099@gmail.com'>jaysoni2099@gmai
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaysoni-ash42&layout=compact)
 
 
-⭐️ From [grace](https://github.com/jaysoni-ash42)
+⭐️ From [Jay soni](https://github.com/jaysoni-ash42)
